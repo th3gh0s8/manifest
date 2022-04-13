@@ -324,5 +324,4 @@
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="arrow" />
   <project path="vendor/qcom/opensource/healthd-ext" name="android_vendor_qcom_opensource_healthd-ext" remote="arrow"/>
   <project path="vendor/qcom/opensource/libfmjni" name="android_vendor_qcom_opensource_libfmjni" remote="arrow" />
-  <project path="vendor/qcom/opensource/usb" name="android_vendor_qcom_opensource_usb" remote="arrow" />
 </manifest>
