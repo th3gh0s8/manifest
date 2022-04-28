@@ -103,6 +103,7 @@
 
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
+  <remove-project name="platform/frameworks/libs/net" />
   <remove-project name="platform/frameworks/native" />
   <remove-project name="platform/frameworks/opt/telephony" />
   <remove-project name="platform/art" />
@@ -123,10 +124,14 @@
   <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/SettingsIntelligence" />
+  <remove-project name="platform/packages/modules/Connectivity" />
+  <remove-project name="platform/packages/modules/Permission" />
+  <remove-project name="platform/packages/modules/Wifi" />
   <remove-project name="platform/packages/providers/MediaProvider" />
   <remove-project name="platform/packages/providers/DownloadProvider" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
+  <remove-project name="platform/system/apex" />
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/libhwbinder" />
@@ -165,6 +170,7 @@
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="evo" />
   <project path="frameworks/base" name="frameworks_base" remote="evo" />
+  <project path="frameworks/libs/net" name="frameworks_libs_net" remote="evo" />
   <project path="frameworks/native" name="frameworks_native" remote="evo" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="evo" />
 
@@ -292,6 +298,11 @@
   <project path="packages/apps/SimpleDeviceConfig" name="android_packages_apps_SimpleDeviceConfig" remote="proton" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="evo" />
 
+  <!-- Modules repos -->
+  <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="evo" />
+  <project path="packages/modules/Permission" name="packages_modules_Permission" remote="evo" />
+  <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="evo" />
+
   <!-- Providers repos -->
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="evo" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="evo" />
@@ -304,6 +315,7 @@
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="evo" />
 
   <!-- System repos -->
+  <project path="system/apex" name="system_apex" remote="evo" />
   <project path="system/bt" name="system_bt" remote="evo" />
   <project path="system/core" name="system_core" remote="evo" />
   <project path="system/libhwbinder" name="system_libhwbinder" remote="evo" />
