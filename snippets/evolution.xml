@@ -151,6 +151,7 @@
 
   <!-- External repos -->
   <project path="external/colorkt" name="android_external_colorkt" remote="proton" />
+  <project path="external/exfatprogs" name="android_external_exfatprogs" remote="proton" />
   <project path="external/faceunlock" name="external_faceunlock" remote="pe-gitlab" />
   <project path="external/fastrpc" name="external_fastrpc" remote="evo" />
   <project path="external/libcxx" name="external_libcxx" remote="evo" />
