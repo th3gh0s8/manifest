@@ -96,6 +96,7 @@
   <remove-project name="platform/hardware/ril" />
   <remove-project name="platform/libcore" />
   <remove-project name="platform/packages/apps/Bluetooth" />
+  <remove-project name="platform/packages/apps/ManagedProvisioning" />
   <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/PackageInstaller" />
   <remove-project name="platform/packages/apps/Settings" />
@@ -204,6 +205,7 @@
   <project path="packages/apps/Evolver" name="packages_apps_Evolver" remote="evo" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="evo" />
   <project path="packages/apps/GamingMode" name="packages_apps_GamingMode" remote="evo" />
+  <project path="packages/apps/ManagedProvisioning" name="packages_apps_ManagedProvisioning" remote="evo" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="evo" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="evo" />
   <project path="packages/apps/PermissionController" name="packages_apps_PackageInstaller" remote="evo" />
