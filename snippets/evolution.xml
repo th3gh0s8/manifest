@@ -155,6 +155,7 @@
 
   <!-- Device repos -->
   <project path="device/evolution/sepolicy" name="device_evolution_sepolicy" remote="evo" />
+  <project path="device/qcom/common" name="PixelExperience-Devices/device_qcom_common" remote="github" revision="twelve" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="evo" />
   <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="evo" />
 
