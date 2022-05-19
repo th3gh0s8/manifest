@@ -300,7 +300,7 @@
   <project path="packages/apps/EvoEgg" name="packages_apps_EvoEgg" remote="evo" />
   <project path="packages/apps/Evolver" name="packages_apps_Evolver" remote="evo" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="pe" />
-  <project path="packages/apps/GamingMode" name="packages_apps_GamingMode" remote="evo" />
+  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="evo" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="evo" />
   <project path="packages/apps/RepainterServicePriv" name="kdrag0n/android_packages_apps_RepainterServicePriv" remote="github" revision="main" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="evo" />
