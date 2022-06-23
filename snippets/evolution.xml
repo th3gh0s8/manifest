@@ -272,6 +272,7 @@
   <project path="hardware/qcom-caf/sm8350/display" name="LineageOS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="lineage-19.1-caf-sm8350" remote="github" />
   <project path="hardware/qcom-caf/sm8350/media" name="LineageOS/android_hardware_qcom_media" groups="qcom" revision="lineage-19.1-caf-sm8350" remote="github" />
   <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom_wlan" remote="arrow" revision="arrow-12.1-caf" />
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="evo" />
 
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="evo" />
